@@ -1,6 +1,14 @@
 # Lab Instructions
 
-Implement Bubble Sort
+Here we will be constructing our own bubble sort. 
+Using the `sort()` method, write in your logic for bubble sorting a series of integers. 
+The method will be provided an **unsorted** array of integers as a parameter. 
+What should be returned is an array in **ascending** order. 
+Ex: 
+  input -> [3,2,5,1,4] 
+  output -> [1,2,3,4,5]
+
+Be sure to be mindful of the array indices as `ArrayIndexOutOfBoundsExceptionsare` very common.
 
 ## Running the Tests
 
