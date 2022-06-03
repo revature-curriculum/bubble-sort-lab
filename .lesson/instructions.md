@@ -1,6 +1,6 @@
 # Lab Instructions
 
-Here we will be construction our own bubble sort. 
+Here we will be constructing our own bubble sort. 
 Using the `sort()` method, write in your logic for bubble sorting a series of integers.
 The method will be provided an **unsorted** array of integers as a parameter.
 What should be returned is an array in **ascending** order. 
